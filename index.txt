@@ -4,7 +4,7 @@ Pixology - Building Digital Product
 
 #---------- HEADER ----------#
 
-Pixology
+Cruxgfx
 
 aria-label="close menu"
 
@@ -28,11 +28,11 @@ Let’s Talk 👋
 
 Building Digital Product, Brand and Experience
 
-At Pixology we specialize in designing, building, shipping and scaling beautiful, usable products with blazing-fast efficiency
+At Cruxgfx we specialize in designing, building, shipping and scaling beautiful, usable products with blazing-fast efficiency
 
 How It Works
 
-aria-label="pixology promo"
+aria-label="Cruxgfx promo"
 <ion-icon name="play-outline" aria-hidden="true"></ion-icon>
 Behind the scenes
 
@@ -119,7 +119,7 @@ Didicated team
 
 Projects
 
-Pixology complete project
+Cruxgfx complete project
 
 Website
 Landing Page
@@ -182,7 +182,7 @@ July 22, 2022
 
 Godaddy user flow solution...
 
-At Pixology we specialize in designing, building, shipping and scaling beautifu. At Pixology we specialize in designing, building, shipping and scaling beautiful.
+At Cruxgfx we specialize in designing, building, shipping and scaling beautifu. At Cruxgfx we specialize in designing, building, shipping and scaling beautiful.
 
 alt = Godaddy user flow solution for every individual
 
@@ -198,7 +198,7 @@ How to gain pro experience ar figma update version
 
 #---------- FOOTER ----------#
 
-About Pixology
+About Cruxgfx
 
 A new way to make the payments easy, reliable and 100% secure. claritatem itamconse quat. Exerci tationulla
 
@@ -229,7 +229,7 @@ alt = instagram post
 
 <ion-icon name="logo-instagram" aria-hidden="true"></ion-icon>
 
-&copy; 2022 Pixology. All Rights Reserved by codewithsadee
+&copy; 2022 Cruxgfx. All Rights Reserved by Cruxgfx
 
 Terms and conditions
 Privacy policy
