@@ -152,7 +152,7 @@ html {
 }
 
 body {
-  background-color: rgb(97, 255, 255);
+  background-color: var(--ghost-white);
   color: var(--slate-gray);
   font-size: 1.6rem;
   line-height: 1.75;
@@ -222,7 +222,7 @@ body {
   left: 0;
   width: 100%;
   height: 6px;
-  background-color: var(--mustard);
+  background-color: var(--sky-blue-crayola);
   z-index: -1;
 }
 
@@ -267,8 +267,8 @@ body {
 .btn:is(:hover, :focus)::after { transform-origin: left; }
 
 .btn-primary {
-  background-color: var(--majorelle-blue);
-  color: var(--white);
+  background-color: #64e3ca;
+  color: var(--black);
 }
 
 .btn-primary:is(:hover, :focus) { color: var(--raisin-black-1); }
@@ -299,7 +299,7 @@ body {
   position: static;
   width: 12px;
   height: 12px;
-  background-color: var(--mustard);
+  background-color: var(--black);
   display: inline-block;
   border-radius: 50%;
   margin-inline-end: 10px;
@@ -370,6 +370,7 @@ body {
   font-weight: var(--fw-700);
 }
 
+
 .nav-open-btn {
   background-color: var(--white);
   color: var(--eerie-black);
@@ -411,7 +412,7 @@ body {
 .navbar .logo { color: var(--white); }
 
 .nav-close-btn {
-  color: var(--white);
+  color: var(--sky-blue-crayola);
   font-size: 30px;
   transition: var(--transition-1);
 }
@@ -428,7 +429,7 @@ body {
   transition: var(--transition-1);
 }
 
-.navbar-link:is(:hover, :focus) { color: var(--mustard); }
+.navbar-link:is(:hover, :focus) { color: var(--sky-blue-crayola); }
 
 .overlay {
   position: fixed;
@@ -1246,7 +1247,7 @@ body {
    */
 
   .hero {
-    background-image: linear-gradient(to right, var(--white) 79%, var(--mustard) 79%);
+    background-image: linear-gradient(to right, var(--white) 79%, var(--sky-blue-crayola) 79%);
     overflow: hidden;
   }
 
