@@ -233,7 +233,9 @@ body {
   display: flex;
   align-items: center;
   padding-inline: 50px;
-  border-radius: var(--radius-10);
+  /* border-radius: var(--radius-10); */
+  box-shadow: 5px 5px rgb(0, 0, 0);
+  border: 2px solid var(--eerie-black);
   overflow: hidden;
   transition: var(--transition-2);
 }
@@ -245,6 +247,8 @@ body {
   height: 50%;
   transform: scaleX(0);
   background-color: var(--mustard);
+  
+
   z-index: -1;
   transition: transform var(--transition-1);
 }
@@ -376,8 +380,11 @@ body {
   color: var(--eerie-black);
   font-size: 35px;
   padding: 10px;
+  border: 2px solid var(--eerie-black);
   box-shadow: var(--shadow-2);
-  border-radius: var(--radius-10);
+  /* border-radius: var(--radius-10); */
+  cursor: pointer;
+  box-shadow: 5px 5px rgb(14, 225, 204);
 }
 
 .navbar {
@@ -525,7 +532,6 @@ body {
 .service-card,
 .service .link-card {
   padding: 45px;
-  border-radius: var(--radius-20);
 }
 
 .service-card {
@@ -542,7 +548,8 @@ body {
 .service-card .card-icon {
   max-width: max-content;
   padding: 15px;
-  border-radius: var(--radius-8);
+  /* border-radius: var(--radius-8); */
+  box-shadow: 4px 4px black;
   background-color: hsla(var(--color), 0.15);
   margin-block-end: 25px;
   transition: var(--transition-2);
